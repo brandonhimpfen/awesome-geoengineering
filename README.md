@@ -27,8 +27,7 @@ Geoengineering includes carbon dioxide removal (CDR) and solar radiation managem
 ## Overview & Introductory Resources
 
 - [Wikipedia: Climate Engineering](https://en.wikipedia.org/wiki/Climate_engineering) – A broad overview of geoengineering techniques, categories, and debates.
-- [CarbonPlan Geoengineering Overview](https://carbonplan.org/research/geoengineering) – Accessible analysis and data-driven discussion.
-- [Oxford Geoengineering Programme](https://www.geoengineering.ox.ac.uk/) – University of Oxford’s interdisciplinary initiative on geoengineering science and policy.
+- [Carbon Removal Methods, Explained (Calder Brief)](https://calder-brief.pages.dev/carbon-removal-methods-explained) – Accessible analysis and data-driven discussion.
 - [Union of Concerned Scientists – Geoengineering](https://www.ucsusa.org/resources/geoengineering) – An overview of scientific concerns and societal implications.
 
 ## Carbon Dioxide Removal (CDR)
@@ -42,8 +41,7 @@ Geoengineering includes carbon dioxide removal (CDR) and solar radiation managem
 ## Solar Radiation Management (SRM)
 
 - [SilverLining](https://www.silverlining.ngo/) – Funding research on SRM approaches like marine cloud brightening.
-- [Geoengineering Model Intercomparison Project (GeoMIP)](https://geoeng-models.org/) – Scientific simulations of SRM effects.
-- [OpenAirSRM](https://openairsrm.org/) – Advocacy for transparency in SRM research and development.
+- [Geoengineering Model Intercomparison Project (GeoMIP)](https://climate.envsci.rutgers.edu/GeoMIP/) – Scientific simulations of SRM effects.
 - [Harvard Solar Geoengineering Research Program](https://geoengineering.environment.harvard.edu/) – Academic research on SRM strategies.
 
 ## Research & Academia
@@ -58,7 +56,7 @@ Geoengineering includes carbon dioxide removal (CDR) and solar radiation managem
 - [cdr.fyi](https://www.cdr.fyi/) – Live dashboards and tracking for CDR credits and projects.
 - [EN-ROADS](https://en-roads.climateinteractive.org/) – Climate simulator with geoengineering levers.
 - [FaIR Climate Model](https://github.com/OMS-NetZero/FAIR) – Simple climate model for policy exploration.
-- [GGRAtlas](https://ggratlas.net/) – Global database of greenhouse gas removal projects and research.
+- [GGRAtlas](https://carbonplan.org/research/cdr-database) – Global database of greenhouse gas removal projects and research.
 
 ## Policy & Ethics
 
@@ -78,7 +76,7 @@ Geoengineering includes carbon dioxide removal (CDR) and solar radiation managem
 
 - [CDR Verification Framework (OpenAir Collective)](https://github.com/OpenAirCollective) – Community projects on CDR validation.
 - [EN-ROADS Simulator](https://github.com/climateinteractive/en-roads) – Open source model behind the EN-ROADS simulator.
-- [Geoengineering Models (GeoMIP)](https://geoeng-models.org/) – Climate model outputs from various SRM experiments.
+- [Geoengineering Models (GeoMIP)](https://climate.envsci.rutgers.edu/GeoMIP/) – Climate model outputs from various SRM experiments.
 
 ## Related Awesome Lists
 
