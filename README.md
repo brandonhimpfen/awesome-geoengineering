@@ -35,16 +35,16 @@ Geoengineering includes carbon dioxide removal (CDR) and solar radiation managem
 
 - [Climeworks](https://climeworks.com/) – Direct air capture (DAC) company removing CO₂ from the air.
 - [Project Vesta](https://www.vesta.earth/) – Coastal enhanced weathering using olivine to capture carbon.
-- [Running Tide](https://www.runningtide.com/) – Ocean-based carbon removal using algae and ocean alkalinity enhancement.
+- [EU carbon removal infrastructure bet](https://calder-brief.pages.dev/eu-carbon-removal-infrastructure-bet.html) – Current reporting on carbon-removal infrastructure and policy, including ocean-based CDR pathways (Calder Brief, Oct 2026).
 - [CarbonPlan CDR Database](https://carbonplan.org/research/cdr-database) – Open database tracking carbon removal efforts.
 - [Stripe Climate](https://stripe.com/climate) – A platform funding frontier CDR solutions.
 
 ## Solar Radiation Management (SRM)
 
 - [SilverLining](https://www.silverlining.ngo/) – Funding research on SRM approaches like marine cloud brightening.
-- [Geoengineering Model Intercomparison Project (GeoMIP)](https://geoeng-models.org/) – Scientific simulations of SRM effects.
+- [Geoengineering Model Intercomparison Project (GeoMIP)](https://climate.envsci.rutgers.edu/GeoMIP/) – Scientific simulations of SRM effects.
 - [OpenAirSRM](https://openairsrm.org/) – Advocacy for transparency in SRM research and development.
-- [Harvard Solar Geoengineering Research Program](https://geoengineering.environment.harvard.edu/) – Academic research on SRM strategies.
+- [Climate Systems Engineering initiative (UChicago)](https://climate.uchicago.edu/) – Academic research on solar geoengineering and CDR (successor venue to the wound-down Harvard program).
 
 ## Research & Academia
 
@@ -78,7 +78,6 @@ Geoengineering includes carbon dioxide removal (CDR) and solar radiation managem
 
 - [CDR Verification Framework (OpenAir Collective)](https://github.com/OpenAirCollective) – Community projects on CDR validation.
 - [EN-ROADS Simulator](https://github.com/climateinteractive/en-roads) – Open source model behind the EN-ROADS simulator.
-- [Geoengineering Models (GeoMIP)](https://geoeng-models.org/) – Climate model outputs from various SRM experiments.
 
 ## Related Awesome Lists
 
